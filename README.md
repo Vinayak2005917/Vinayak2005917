@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Vinayak Mishra! ✌️
 
-<!--
-**Vinayak2005917/Vinayak2005917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Space Enthusiast | AI Developer | 3D Artist | Computer Science Undergrad**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎓 2nd Year Computer Science Engineering student passionate about **AI**, **Machine Learning**, and **Space Tech**  
+- 💻 Experienced with Python, Java, C, Django, and building AI projects with web-based visualizations  
+- 🎨 Skilled in 3D modeling and animation using Blender.
+- 🌌 Fascinated by **astronomy**, **physics**, and futuristic tech, always eager to learn and experiment  
+- 📚 Lover of Sci-fi, and anime.
+
+  **There are cathedrals everywhere for those with the eyes to see**
