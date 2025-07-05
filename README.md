@@ -1,6 +1,6 @@
 # Hi there, I'm Vinayak Mishra! ✌️
 
-🚀 **Computer Science Undergrad | Space Enthusiast | Aspiring AI Engineer | 3D Artist **
+**🚀 Computer Science Undergrad | Space Enthusiast | Aspiring AI Engineer | 3D Artist **
 
 ---
 
